@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lee-fuhr.github.io/mesh-produce-bag-picks/sitemap.xml
